@@ -1,0 +1,192 @@
+
+doorframe_mat polygon ec_room2_A4.0.0
+0
+0
+12	36	179	36.429998
+	36	179	36
+	36	180	36
+	36	180	36.429998
+
+doorframe_mat polygon ec_room2_A4.0.1
+0
+0
+12	36	180	36.429998
+	36	180	36
+	33	180	36
+	33	180	36.429998
+
+doorframe_mat polygon ec_room2_A4.0.2
+0
+0
+12	33	180	36.429998
+	33	180	36
+	33	179	36
+	33	179	36.429998
+
+doorframe_mat polygon ec_room2_A4.0.3
+0
+0
+12	33	179	36.429998
+	33	179	36
+	36	179	36
+	36	179	36.429998
+
+doorframe_mat polygon ec_room2_A4.0.4
+0
+0
+12	36	180	36
+	36	179	36
+	33	179	36
+	33	180	36
+
+doorframe_mat polygon ec_room2_A4.0.5
+0
+0
+12	36	179	36.429998
+	36	180	36.429998
+	33	180	36.429998
+	33	179	36.429998
+
+doorframe_mat polygon ec_room2_956.0.0
+0
+0
+12	42	179	96
+	42	179	0
+	42	180	0
+	42	180	96
+
+doorframe_mat polygon ec_room2_956.0.1
+0
+0
+12	42	180	96
+	42	180	0
+	39	180	0
+	39	180	96
+
+doorframe_mat polygon ec_room2_956.0.2
+0
+0
+12	39	180	96
+	39	180	0
+	39	179	0
+	39	179	96
+
+doorframe_mat polygon ec_room2_956.0.3
+0
+0
+12	39	179	96
+	39	179	0
+	42	179	0
+	42	179	96
+
+doorframe_mat polygon ec_room2_956.0.4
+0
+0
+12	42	180	0
+	42	179	0
+	39	179	0
+	39	180	0
+
+doorframe_mat polygon ec_room2_956.0.5
+0
+0
+12	42	179	96
+	42	180	96
+	39	180	96
+	39	179	96
+
+doorframe_mat polygon ec_room2_958.0.0
+0
+0
+12	0	180	0
+	0	180	96
+	0	179	96
+	0	179	0
+
+doorframe_mat polygon ec_room2_958.0.1
+0
+0
+12	3	180	0
+	3	180	96
+	0	180	96
+	0	180	0
+
+doorframe_mat polygon ec_room2_958.0.2
+0
+0
+12	3	179	0
+	3	179	96
+	3	180	96
+	3	180	0
+
+doorframe_mat polygon ec_room2_958.0.3
+0
+0
+12	0	179	0
+	0	179	96
+	3	179	96
+	3	179	0
+
+doorframe_mat polygon ec_room2_958.0.4
+0
+0
+12	3	179	0
+	3	180	0
+	0	180	0
+	0	179	0
+
+doorframe_mat polygon ec_room2_958.0.5
+0
+0
+12	3	180	96
+	3	179	96
+	0	179	96
+	0	180	96
+
+doorframe_mat polygon ec_room2_9D.0.0
+0
+0
+12	39	179	96
+	39	179	93
+	39	180	93
+	39	180	96
+
+doorframe_mat polygon ec_room2_9D.0.1
+0
+0
+12	39	180	96
+	39	180	93
+	3	180	93
+	3	180	96
+
+doorframe_mat polygon ec_room2_9D.0.2
+0
+0
+12	3	180	96
+	3	180	93
+	3	179	93
+	3	179	96
+
+doorframe_mat polygon ec_room2_9D.0.3
+0
+0
+12	3	179	96
+	3	179	93
+	39	179	93
+	39	179	96
+
+doorframe_mat polygon ec_room2_9D.0.4
+0
+0
+12	39	180	93
+	39	179	93
+	3	179	93
+	3	180	93
+
+doorframe_mat polygon ec_room2_9D.0.5
+0
+0
+12	39	179	96
+	39	180	96
+	3	180	96
+	3	179	96

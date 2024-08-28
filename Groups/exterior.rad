@@ -1,0 +1,5 @@
+!xform -t 0 4.25 0 ./Objects/exterior.rad
+!xform -t 0 4.25 0 ./Objects/ground.rad
+!xform -s 12 -t 400 -100 0.015 -a 4 -t -200 0 0 ./Objects/tree_detailed.rad
+!xform -s 12 -t 400 -100 0.015 -a 2 -t -100 -200 0 -a 4 -t -200 0 0 ./Objects/tree_detailed.rad
+!xform -s 12 -t 400 -100 0.015 -a 2 -t 0 -500 0 -a 4 -t -200 0 0 ./Objects/tree_detailed.rad

@@ -1,0 +1,89 @@
+# xform -t 135 0 0
+# xform -t -15 32 0
+# xform -rz 90
+
+white_plastic cylinder table_leg.1
+0
+0
+7
+                117                 35                  0
+                117                 35               27.5
+             0.8125
+
+white_plastic cylinder table_leg.2
+0
+0
+7
+               93.5                 35                  0
+               93.5                 35               27.5
+             0.8125
+
+white_plastic cylinder table_leg.3
+0
+0
+7
+                117                 88                  0
+                117                 88               27.5
+             0.8125
+
+white_plastic cylinder table_leg.4
+0
+0
+7
+               93.5                 88                  0
+               93.5                 88               27.5
+             0.8125
+
+table_mat polygon table_top.1540
+0
+0
+12
+                120                 91               27.5
+                120                 91             28.875
+                120                 32             28.875
+                120                 32               27.5
+
+table_mat polygon table_top.4620
+0
+0
+12
+                120                 32             28.875
+               90.5                 32             28.875
+               90.5                 32               27.5
+                120                 32               27.5
+
+table_mat polygon table_top.2310
+0
+0
+12
+               90.5                 32               27.5
+               90.5                 91               27.5
+                120                 91               27.5
+                120                 32               27.5
+
+table_mat polygon table_top.3267
+0
+0
+12
+               90.5                 91               27.5
+               90.5                 32               27.5
+               90.5                 32             28.875
+               90.5                 91             28.875
+
+table_mat polygon table_top.5137
+0
+0
+12
+                120                 91             28.875
+                120                 91               27.5
+               90.5                 91               27.5
+               90.5                 91             28.875
+
+table_mat polygon table_top.6457
+0
+0
+12
+               90.5                 32             28.875
+                120                 32             28.875
+                120                 91             28.875
+               90.5                 91             28.875

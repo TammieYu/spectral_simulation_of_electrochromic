@@ -1,0 +1,14 @@
+# obj2rad -f Objects/mon_screen.obj
+# Rhino
+
+monitor_screen_mat polygon object_1.1
+0
+0
+12
+            2.77351           0.501526            18.2926
+            2.77351            26.4537            18.2926
+            2.77351            26.4537            3.63676
+            2.77351           0.501526            3.63676
+
+# Done processing file: Objects/mon_screen.obj
+# 18 lines, 17 statements, 1 unrecognized

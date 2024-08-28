@@ -1,0 +1,9 @@
+tree_branch_mat mesh branch_detailed
+1 ./Objects/branch_detailed1.rtm
+0
+0
+
+green_leaf_mat mesh canopy_detailed
+1 ./Objects/canopy_detailed1.rtm
+0
+0

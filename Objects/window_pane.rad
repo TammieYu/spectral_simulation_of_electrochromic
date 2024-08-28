@@ -1,0 +1,3 @@
+#!xform ../Materials/mat_window_pane.rad
+!xform -n group ./ob_window_pane/group.rad
+!xform -n group01 ./ob_window_pane/group01.rad

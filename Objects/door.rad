@@ -1,0 +1,48 @@
+# door
+door_mat polygon ec_room2_9C5.0.0
+0
+0
+12	39	179	93
+	39	179	0
+	39	180	0
+	39	180	93
+
+door_mat polygon ec_room2_9C5.0.1
+0
+0
+12	39	180	93
+	39	180	0
+	3	180	0
+	3	180	93
+
+door_mat polygon ec_room2_9C5.0.2
+0
+0
+12	3	180	93
+	3	180	0
+	3	179	0
+	3	179	93
+
+door_mat polygon ec_room2_9C5.0.3
+0
+0
+12	3	179	93
+	3	179	0
+	39	179	0
+	39	179	93
+
+door_mat polygon ec_room2_9C5.0.4
+0
+0
+12	39	180	0
+	39	179	0
+	3	179	0
+	3	180	0
+
+door_mat polygon ec_room2_9C5.0.5
+0
+0
+12	39	179	93
+	39	180	93
+	3	180	93
+	3	179	93

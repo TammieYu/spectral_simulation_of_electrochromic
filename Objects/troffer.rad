@@ -1,0 +1,102 @@
+# ies2rad -o troffer -di
+# Dimensions in inches
+#<IESNA:LM-63-2002
+#<[TEST] ISF 31714P5
+#<[TESTDATE] 8/2/2016
+#<[ISSUEDATE] 1/5/2017
+#<[TESTLAB] SCALED PHOTOMETRY
+#<[TESTMETHOD]
+#<[MANUFAC] Mark Architectural Lighting
+#<[LUMCAT] WHSPR 2x000LM 40K 90CRI YBC
+#<[LUMINAIRE] WHISPER LED 2X000LM 4000K 90CRI W/ MICROPRISMATIC CENTER LENS
+#<[LAMPCAT] LED
+#<[LAMP] LED
+#<[BALLAST] LED DRIVER
+#<[BALLASTCAT]
+#<[DISTRIBUTION] DIRECT, SC-0=1.16, SC-90=1.14
+#<[_TOTALLUMINAIRELUMENS] 2594.3
+#<[_LAMPPOSITION] 0 , 0
+#<[_LAMPTYPE] LED
+#<[_LAMPWATTAGE] 25.4
+#<[_PHYSICALDIMENSIONS] 4, 2, 0.4
+#<[_MOUNTING] Recessed
+#<[_FAMILY] WHSPR Troffer
+#<[_PRODUCTID] b1319211-4620-4dda-b288-5eaf6ecf352e
+#<[_ABSOLUTE] NOTE: DATA SHOWN IS ABSOLUTE FOR THE SAMPLE PROVIDED.
+#<[_ABSOLUTELUMENS] 3302
+#<[_INPUT_ELECTRICAL] 120.1 VOLTS, 25.9 WATTS, 0.217 AMPS
+#<[_TEMP0] AMBIENT: 25.0
+# Unknown lamp type (used default)
+
+# 25.4 watt luminaire, lamp*ballast factor = 1
+# IES file shape = box
+# Radiance geometry shape = rectangle or box
+
+void spectrum light_mat
+0
+0
+43 380 780 0.042821 0.067323 0.11839 0.14037 0.16052 0.19602 0.38791 0.2599 0.28326 0.29769 0.30295 0.30066 0.2867 0.2709 0.25693 0.25258 0.26403 0.39043 0.32814 0.35539 0.44768 0.34142 0.30273 0.25464 0.20495 0.16075 0.12411 0.095031 0.073277 0.056561 0.044195 0.038241 0.02954 0.024731 0.020151 0.017632 0.016716 0.0158 0.015571 0.013968 0.009847
+
+void brightdata 'troffer_dist'
+5 boxcorr 'Materials/troffer.dat' source.cal src_phi src_theta 
+0
+4 0.786028 1.18262 0.582168 0.12192
+
+'troffer_dist' light 'troffer_light'
+0
+0
+3 1 1 1
+
+'troffer_light' polygon 'troffer.d'
+0
+0
+12
+	-23.28	-11.46	-2.4
+	-23.28	11.46	-2.4
+	23.28	11.46	-2.4
+	23.28	-11.46	-2.4
+
+'troffer_light' polygon 'troffer.u'
+0
+0
+12
+	-23.28	-11.46	2.4
+	23.28	-11.46	2.4
+	23.28	11.46	2.4
+	-23.28	11.46	2.4
+
+'troffer_light' polygon 'troffer.1'
+0
+0
+12
+	-23.28	-11.46	-2.4
+	23.28	-11.46	-2.4
+	23.28	-11.46	2.4
+	-23.28	-11.46	2.4
+
+'troffer_light' polygon 'troffer.2'
+0
+0
+12
+	23.28	-11.46	-2.4
+	23.28	11.46	-2.4
+	23.28	11.46	2.4
+	23.28	-11.46	2.4
+
+'troffer_light' polygon 'troffer.3'
+0
+0
+12
+	23.28	11.46	-2.4
+	-23.28	11.46	-2.4
+	-23.28	11.46	2.4
+	23.28	11.46	2.4
+
+'troffer_light' polygon 'troffer.4'
+0
+0
+12
+	-23.28	11.46	-2.4
+	-23.28	-11.46	-2.4
+	-23.28	-11.46	2.4
+	-23.28	11.46	2.4

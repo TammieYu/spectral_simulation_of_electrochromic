@@ -1,0 +1,18 @@
+!xform -t 0 4.25 0 ./Objects/north_wall.rad
+!xform -t 0 4.25 0 ./Objects/west_wall.rad
+!xform -t 0 4.25 0 ./Objects/east_wall.rad
+!xform -t 0 4.25 0 ./Objects/floor.rad
+!xform -t 0 4.25 0 ./Objects/ceiling.rad
+!xform -t 0 4.25 0 ./Objects/wainscot.rad
+!xform -t 0 4.25 0 ./Objects/door.rad
+!xform -t 0 4.25 0 ./Objects/doorframe.rad
+!xform -t 0 4.25 0 ./Objects/table.rad
+!xform -t 0 4.25 0 ./Objects/window_pane.rad
+!xform -t 0 4.25 0 ./Objects/top_panels.rad
+!xform -t 0 4.25 0 ./Objects/glass.rad
+#!xform -I -t -113.4 10 -1.125 -mx ./Objects/monitor.rad
+!xform -t 107 60 28.875 ./Objects/monitor.rad
+!xform -t 90 30 22.09774 ./Objects/plant.rad
+!xform -t 95 55 31.0236 ./Objects/book.rad
+
+
